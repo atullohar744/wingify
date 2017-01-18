@@ -1,0 +1,25 @@
+Introduction
+
+This app is built on Bootstrap 3 framework using modern techniques like HTML5 and CSS3 to be used for backend solutions of any size and for backend use php with mysql.
+
+Support Requests
+
+Browser support is targeted at IE9+, Google Chrome, Mozilla Firefox, Apple Safari, Opera and all Android and iOS mobile browsers. For browsers not in this list, support is not available.
+
+Documentation Scope
+
+This documentation is targeted to explain structures like files and directories, template, CSS and JavaScript or how you can configure the template. Since this template is built on top of the excellent Bootstrap 3 framework.
+
+Getting Started
+
+To get started, use Chrome Developer Tools (Chrome), Firebug (Firefox) or similar plugins to analyze the code. To get a deeper understanding of the code.
+Use below link to run application.
+
+Then login with "test@test.com" using password "test"
+Then it throws you to product page.
+
+Product page Introduction
+
+Development:
+
+
